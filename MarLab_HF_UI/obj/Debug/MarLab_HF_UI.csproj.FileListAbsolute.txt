@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\bin\Debug\MarLab_HF_UI.exe.config
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\bin\Debug\MarLab_HF_UI.exe
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\bin\Debug\MarLab_HF_UI.pdb
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\obj\Debug\MarLab_HF_UI.MainForm.resources
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\obj\Debug\MarLab_HF_UI.Properties.Resources.resources
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\obj\Debug\MarLab_HF_UI.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\obj\Debug\MarLab_HF_UI.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\obj\Debug\MarLab_HF_UI.exe
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\obj\Debug\MarLab_HF_UI.pdb
+C:\Users\Dani\source\repos\MarLab_HF_UI\MarLab_HF_UI\obj\Debug\MarLab_HF_UI.csprojAssemblyReference.cache
